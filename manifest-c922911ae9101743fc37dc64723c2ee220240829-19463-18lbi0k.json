@@ -1,0 +1,40 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-08-29T13:41:15+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "Train.csv",
+      "filesize": 1147554,
+      "description": "A file containing train images and their bboxes.",
+      "created_at": "2024-08-14 08:25:32 UTC",
+      "updated_at": "2024-08-27 18:20:05 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 28318,
+      "description": "A file containing images you are to make predictions on.",
+      "created_at": "2024-08-14 08:25:40 UTC",
+      "updated_at": "2024-08-27 18:19:59 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 157898,
+      "description": "A file showing how your submission should look like.",
+      "created_at": "2024-08-14 08:26:22 UTC",
+      "updated_at": "2024-08-27 18:20:01 UTC"
+    },
+    {
+      "filename": "Lacuna_Malaria_Detection_Challenge_Starter.ipynb",
+      "filesize": 1694169,
+      "description": "This is a starter notebook to help you make your first submission. ",
+      "created_at": "2024-08-29 13:40:57 UTC",
+      "updated_at": "2024-08-29 13:41:15 UTC"
+    }
+  ]
+}
